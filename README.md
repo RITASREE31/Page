@@ -1,14 +1,14 @@
-## Page
+# Page
 
 
 This is a clone webpage project based on a webpage available on the internet and has been completed keeping in mind a reference page.
 
-# Techniques Used:
+## Techniques Used:
 
 1. Java Script
 2. CSS
 
-# Screenshots:
+## Screenshots:
 
 1. First Page:
  
@@ -22,9 +22,9 @@ Last Page (Scroll down):
 
 https://ritasree31.github.io/Page/web-design-in-4-minutes.html
 
-# Conclusion:
+## Conclusion:
 
 I have tried to complete this project as accurate as possible. All the contents are based on the reference webpage along with the links and pictures. I have tried to challenge myself in accomplising this webpage.
 
-# Future Prospects:
+## Future Prospects:
 I am willing to develop a few aspects of the project and work on the hovering effects and highlights in future. I am open to suggestions as well thus any contribution to this project is welcome.
