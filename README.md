@@ -1,4 +1,4 @@
-Page
+Page:
 This project is based on a clone webpage and has been completed keeping in mind a reference page.
 
 Techniques Used:
@@ -6,7 +6,7 @@ Techniques Used:
 2. CSS
 
 Screenshots:
-First Page
+First Page:
 ![image](https://github.com/RITASREE31/Page/assets/140141282/ce9cfc2d-ea0b-49db-a574-2bd9db85b964)
 Last Page (Scroll down)
 ![image](https://github.com/RITASREE31/Page/assets/140141282/86b661b7-8892-4f07-8ec0-a022f3cee2dc)
